@@ -1,0 +1,35 @@
+.logo {
+	width: 30%;
+}
+
+.justificado{
+	text-align: center;
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+.fac {
+	width: 100%
+}
+
+.carta {
+	width: 100%;
+	border: black;
+}
+
+.unfoot {
+	color: #EB2B62;
+} 
+
+.head {
+	font-family: 'Black Han Sans', sans-serif;
+	color: #E34FE1;
+}
